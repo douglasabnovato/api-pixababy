@@ -1,5 +1,11 @@
 import React, { Component } from 'react';
 
+class MyLabel extends Component{
+  render(){
+    return <p>Clique no {this.props.text}</p>
+  }
+}
+
 class MyButton extends Component{
   render(){
     return (
@@ -9,12 +15,6 @@ class MyButton extends Component{
           {this.props.label}
         </button>
       );
-  }
-}
-
-class MyLabel extends Component{
-  render(){
-    return <p>Clique no {this.props.text}</p>
   }
 }
 
