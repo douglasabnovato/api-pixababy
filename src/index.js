@@ -5,6 +5,16 @@ import Tela from './components/Tela';
 import App from './components/App';
 import Formulario from './components/Formulario';
 import Welcome from './components/Welcome';
+import Comment from './components/Comment';
+
+const comment = {
+    date: new Date(),
+    text: 'I hope you enjoy learning React!',
+    author: {
+        name: 'Hello Kitty',
+        avatarUrl: 'https://placekitten.com/g/64/64',
+    },
+};
 
 ReactDOM.render(
     <div>
@@ -12,6 +22,11 @@ ReactDOM.render(
         <Tela />
         <App />
         <Formulario />
+        <Comment
+            date={comment.date}
+            text={comment.text}
+            author={comment.author}
+        />
     </div>,     
     document.getElementById('root')
 ); 
