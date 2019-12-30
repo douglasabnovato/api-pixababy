@@ -30,9 +30,9 @@ ReactDOM.render(
             author={comment.author}
         />
         <Clock />
-        <Toti />
-        <App />
+        <Toti />        
         <SearchImage />
+        <App />
     </div>,     
     document.getElementById('root')
 ); 
