@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import Tela from './components/Tela';
-import App from './components/App';
+import App from './App';
 import Formulario from './components/Formulario';
 import Welcome from './components/Welcome';
 import Comment from './components/Comment';
@@ -21,8 +21,7 @@ const comment = {
 ReactDOM.render(
     <div>
         <Welcome name="douglas novato" />
-        <Tela />
-        <App />
+        <Tela />        
         <Formulario />
         <Comment
             date={comment.date}
@@ -31,6 +30,7 @@ ReactDOM.render(
         />
         <Clock />
         <Toti />
+        <App />
     </div>,     
     document.getElementById('root')
 ); 
