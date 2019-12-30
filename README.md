@@ -22,4 +22,6 @@
 5. `create-react-app yt-react`
 6. `npm start`
 
+- Componente SearchImage : `https://medium.com/luizalabs/comunica%C3%A7%C3%A3o-entre-componentes-no-react-6b42aac62321`
+
 :. de : Guilherme Toti - `https://www.youtube.com/user/gtsites`
