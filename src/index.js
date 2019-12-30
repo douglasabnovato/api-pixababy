@@ -6,6 +6,7 @@ import App from './components/App';
 import Formulario from './components/Formulario';
 import Welcome from './components/Welcome';
 import Comment from './components/Comment';
+import Clock from './components/Clock';
 
 const comment = {
     date: new Date(),
@@ -27,6 +28,7 @@ ReactDOM.render(
             text={comment.text}
             author={comment.author}
         />
+        <Clock />
     </div>,     
     document.getElementById('root')
 ); 
