@@ -15,4 +15,11 @@
 
 > Components, props, state
 
+1. `npm -v`
+2. `yarn -v`
+3. `node -v`
+4. `npm install -g create-react-app`
+5. `create-react-app yt-react`
+6. `npm start`
+
 :. de : Guilherme Toti - `https://www.youtube.com/user/gtsites`
