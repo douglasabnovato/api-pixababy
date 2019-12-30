@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class MyLabel extends Component{
     render(){
         return ( 
-            <p> Click in: {this.props.text} </p>
+            <p>Tela: Click in {this.props.text} </p>
         );
     }
 }
