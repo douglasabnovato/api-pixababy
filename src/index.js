@@ -9,6 +9,8 @@ import Comment from './components/Comment';
 import Clock from './components/Clock';
 import Toti from './components/Toti';
 import SearchImage from './components/SearchImage/SearchImage'
+import Hello from './components/Hello';
+import Input from './components/Input';
 
 const comment = {
     date: new Date(),
@@ -33,6 +35,8 @@ ReactDOM.render(
         <Toti />        
         <SearchImage />
         <App />
+        <Hello />
+        <Input />
     </div>,     
     document.getElementById('root')
 ); 
