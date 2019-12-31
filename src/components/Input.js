@@ -8,13 +8,17 @@ class Input extends React.Component{
             nome: ""
         };
         this.onChange = (ev) => {
-
+            this.setState({nome: ev.target.value});
         }
     }
     render(){
         return(
             <div>
-                Nome: <input name="nome" type="text" />
+                Nome: <input 
+                            name="nome" 
+                            value={ this.state.nome }
+                            onChange={ this.onChange }
+                            type="text" />Hello {this.state.nome}
             </div>
         );
     }
