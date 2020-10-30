@@ -22,6 +22,7 @@
 5. `create-react-app yt-react`
 6. `npm start`
 
-- **Componente SearchImage** - Comunicação entre componentes no React - uma aplicação que busca imagens em uma API aberta e utilizaremos a Pixabay API para isso. Nossa aplicação irá listar imagens de acordo com um termo pesquisado. : `https://medium.com/luizalabs/comunica%C3%A7%C3%A3o-entre-componentes-no-react-6b42aac62321`
+- **Componente SearchImage** - Comunicação entre componentes no React - uma aplicação que busca imagens em uma API aberta e utilizaremos a Pixabay API para isso. Nossa aplicação irá listar imagens de acordo com um termo pesquisado.
 
-:. de : Guilherme Toti - `https://www.youtube.com/user/gtsites`
+:. de [Luiza Labs](https://medium.com/luizalabs/comunica%C3%A7%C3%A3o-entre-componentes-no-react-6b42aac62321)<br>
+:. de [Guilherme Toti](https://www.youtube.com/user/gtsites)
