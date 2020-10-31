@@ -5,14 +5,14 @@
 ---
 <br>
 
-### Fazer Login 
+### API Pixababy 
 
-![Resultado da Aplicação](/images/a-aplicacao-terminada.jpg)
+![Resultado da Aplicação](/public/tela-da-aplicacao.jpg)
 
 ### O que é a aplicação
 
-- listar imagens de acordo com um termo pesquisado
-- uma aplicação que busca imagens na API Pixabay
+- pesquisar imagens na API Pixabay
+- listar imagens de acordo com um termo pesquisado 
 
 #### Tecnologias/ Ferramentas/ Bibliotecas
 
