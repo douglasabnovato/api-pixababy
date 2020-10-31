@@ -34,6 +34,10 @@
 - reinstall react-scripts: npm i react-scripts
 - Rodar a aplicação: `npm start`
 
+#### Próximo passo na aplicação
+
+- estilizar o frontend
+
 #### Anotações   
 
 - Fonte do projeto: [Luiza Labs](https://medium.com/luizalabs/comunica%C3%A7%C3%A3o-entre-componentes-no-react-6b42aac62321)
