@@ -1,28 +1,41 @@
-## Projeto em ReactJS
-### Atualização: 31 de dezembro de 2019 - 16:17
-### Criação: 27 de dezembro de 2019
-### Prática : @douglasabnovato
+<h3 align="center">
+  API Pixababy 🚀
+</h3>
 
-## Ferramentas : 
+---
+<br>
 
-![ReactJS](/images/logo-reactjs.jpg)
-![Git](/images/logo-git.png)
-![Github](/images/logo-github.png)
-![HTML/CSS/Javascript](/images/logo-html-css-js.jpeg)
-![VSCode](/images/logo-VSCode.png)
-![Yarn](/images/logo-yarn.png)
-![Nodejs](/images/logo-nodejs.png)
+### Fazer Login 
 
-> Components, props, state
+![Resultado da Aplicação](/images/a-aplicacao-terminada.jpg)
 
-1. `npm -v`
-2. `yarn -v`
-3. `node -v`
-4. `npm install -g create-react-app`
-5. `create-react-app yt-react`
-6. `npm start`
+### O que é a aplicação
 
-- **Componente SearchImage** - Comunicação entre componentes no React - uma aplicação que busca imagens em uma API aberta e utilizaremos a Pixabay API para isso. Nossa aplicação irá listar imagens de acordo com um termo pesquisado.
+- listar imagens de acordo com um termo pesquisado
+- uma aplicação que busca imagens na API Pixabay
 
-:. de [Luiza Labs](https://medium.com/luizalabs/comunica%C3%A7%C3%A3o-entre-componentes-no-react-6b42aac62321)<br>
-:. de [Guilherme Toti](https://www.youtube.com/user/gtsites)
+#### Tecnologias/ Ferramentas/ Bibliotecas
+
+- ReactJS `npm install -g create-react-app`
+- Nodejs `node -v`
+- Git
+- HTML/CSS/Javascript
+- VSCode
+- Github
+- Npm `npm -v`
+- Yarn `yarn -v`
+- Link para o artigo da aplicação
+
+#### Código + Dependências
+
+- Rodar a aplicação: `npm start`
+
+#### Anotações   
+
+- Fonte do projeto: [Luiza Labs](https://medium.com/luizalabs/comunica%C3%A7%C3%A3o-entre-componentes-no-react-6b42aac62321)
+- Fonte do projeto: [Guilherme Toti](https://www.youtube.com/user/gtsites)
+
+---
+<br>
+
+.: Por [Douglas A B Novato](https://linktr.ee/douglasabnovato)
