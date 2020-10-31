@@ -28,6 +28,10 @@
 
 #### Código + Dependências
 
+- projeto na pasta local
+- npm install
+- package.json, change "react-scripts": "3.x.x" to "react-scripts": "^3.4.0"
+- reinstall react-scripts: npm i react-scripts
 - Rodar a aplicação: `npm start`
 
 #### Anotações   
